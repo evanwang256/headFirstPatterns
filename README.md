@@ -1,2 +1,2 @@
-# headFistPatterns
-head fist patterns in java
+# headFirstPatterns
+head first patterns in java
